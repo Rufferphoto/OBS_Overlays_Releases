@@ -1,6 +1,6 @@
 # Introducing OBS Overlays Audio Visuals
 
-Revolutionize your streams effortlessly with our OBS Overlays Audio Visual tool. Craft stunning audio-reactive overlays using your own logo or images, tailored for OBS recording or streaming. Our tool offers a straightforward green background option within the program, allowing you to filter the colour on OBS and achieve a seamless, transparent overlay for your stream.
+Revolutionize your streams effortlessly with our OBS Overlays Audio Visual tool. Craft stunning audio-reactive overlays using your own logo or images, tailored for OBS recording or streaming. This tool offers a straightforward green background within, allowing you to filter the colour on OBS and achieve a seamless, transparent overlay for your stream.
 
 Key Features:
 
