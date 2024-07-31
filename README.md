@@ -36,5 +36,5 @@ Key Features:
 ### 1. Open the program and hit escape on the keyboard to open the Main Menu.
 <img src="/OBS_Overlays_BurstDebugInformation_DoNotShip/Screens/7.png?raw=true" width=50% height=50%>
 
-### 2. Hit Customisations, Tge Visual Settings, Device Settings, Background and Colour Settings UI will now be visible.
+### 2. Hit Customisations, The Visual Settings, Device Settings, Background and Colour Settings UI will now be visible.
 <img src="/OBS_Overlays_BurstDebugInformation_DoNotShip/Screens/8.png?raw=true" width=50% height=50%>
